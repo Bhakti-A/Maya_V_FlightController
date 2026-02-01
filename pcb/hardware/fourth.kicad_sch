@@ -7420,6 +7420,12 @@
 		(uuid "251bc248-af17-4a33-b27c-69898bb16f3e")
 	)
 	(junction
+		(at 212.09 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "27cb4ca9-65b0-480d-b54b-a721360e963a")
+	)
+	(junction
 		(at 21.59 17.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9429,7 +9435,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 26.67) (xy 215.9 26.67)
+			(xy 209.55 26.67) (xy 212.09 26.67)
 		)
 		(stroke
 			(width 0)
@@ -9596,6 +9602,16 @@
 			(type default)
 		)
 		(uuid "67c7a7b2-ecb4-476b-89f4-1c280279f64d")
+	)
+	(wire
+		(pts
+			(xy 212.09 26.67) (xy 215.9 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69abe806-a9b9-4cf1-97f1-5e2ce24dc939")
 	)
 	(wire
 		(pts
@@ -11266,6 +11282,16 @@
 			(type default)
 		)
 		(uuid "d91bf0da-996f-46c5-8a95-522a53aa63d7")
+	)
+	(wire
+		(pts
+			(xy 212.09 19.05) (xy 212.09 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9c76845-356f-4c51-8f9c-45ff15e687cd")
 	)
 	(wire
 		(pts
@@ -13368,6 +13394,28 @@
 			)
 		)
 	)
+	(global_label "V"
+		(shape input)
+		(at 212.09 19.05 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ae05aa89-d73b-4c4a-a401-8f3b9432c7be")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 212.09 14.9762 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "VIDEO_OUT"
 		(shape input)
 		(at 265.43 80.01 0)
@@ -14659,7 +14707,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B4B-ZR_1x04_P1.50mm_Vertical"
 			(at 55.88 156.21 0)
 			(effects
 				(font
@@ -16589,7 +16637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x06_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B6B-ZR_1x06_P1.50mm_Vertical"
 			(at 54.61 179.07 0)
 			(effects
 				(font
@@ -17025,7 +17073,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B4B-ZR_1x04_P1.50mm_Vertical"
 			(at 78.74 156.21 0)
 			(effects
 				(font
@@ -18475,7 +18523,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x06_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B6B-ZR_1x06_P1.50mm_Vertical"
 			(at 130.81 154.94 0)
 			(effects
 				(font
@@ -18962,7 +19010,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B4B-ZR_1x04_P1.50mm_Vertical"
 			(at 26.67 156.21 0)
 			(effects
 				(font
@@ -19036,7 +19084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x03_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B3B-ZR_1x03_P1.50mm_Vertical"
 			(at 106.68 182.88 0)
 			(effects
 				(font
@@ -19243,7 +19291,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x03_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B3B-ZR_1x03_P1.50mm_Vertical"
 			(at 107.95 156.21 0)
 			(effects
 				(font
@@ -20403,7 +20451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B4B-ZR_1x04_P1.50mm_Vertical"
 			(at 33.02 134.62 0)
 			(effects
 				(font
@@ -24211,7 +24259,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_ZH_B4B-ZR_1x04_P1.50mm_Vertical"
 			(at 78.74 180.34 0)
 			(effects
 				(font
