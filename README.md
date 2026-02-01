@@ -5,8 +5,8 @@ This is a custom flight controller PCB designed for drones.
 ## PCB Preview
 
 <p align="center">
-  <img src="Maya_V_FlightController/pcb/images/MV_front.png" width="45%">
-  <img src="Maya_V_FlightController/pcb/images/MV_back.png" width="45%">
+  <img src="pcb/images/MV_front.png" width="45%">
+  <img src="pcb/images/MV_back.png" width="45%">
 </p>
 
 ## Features
@@ -22,8 +22,8 @@ This is a custom flight controller PCB designed for drones.
 
 ### Schematic & PCB Layout
 <p align="center">
-  <img src="Maya_V_FlightController/pcb/images/MV_schematic.png" width="45%">
-  <img src="Maya_V_FlightController/pcb/images/MV_2layer.png" width="45%">
-  <img src="Maya_V_FlightController/pcb/images/MV_tlayer.png" width="45%">
-  <img src="Maya_V_FlightController/pcb/images/MV_blayer.png" width="45%">
+  <img src="pcb/images/MV_schematic.png" width="45%">
+  <img src="pcb/images/MV_2layer.png" width="45%">
+  <img src="pcb/images/MV_tlayer.png" width="45%">
+  <img src="pcb/images/MV_blayer.png" width="45%">
 </p>
