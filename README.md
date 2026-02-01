@@ -23,7 +23,7 @@ This is a custom flight controller PCB designed for drones.
 ### Schematic & PCB Layout
 <p align="center">
   <img src="pcb/images/MV_schematic.png" width="45%">
-  <img src="pcb/images/MV_2layer.png" width="45%">
+  <img src="pcb/images/MV_2layers.png" width="45%">
   <img src="pcb/images/MV_tlayer.png" width="45%">
   <img src="pcb/images/MV_blayer.png" width="45%">
 </p>
